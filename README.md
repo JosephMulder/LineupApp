@@ -1,2 +1,2 @@
 # LineupApp
-App for Lining up 
+App for Lining up .
